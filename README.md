@@ -1,4 +1,4 @@
-# ClasificarRostrosPersonas
+# Clasificar los Rostros de las Personas
 
 **Descripción:**
 
