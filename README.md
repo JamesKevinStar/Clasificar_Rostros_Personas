@@ -1,4 +1,7 @@
 # ClasificarRostrosPersonas
+
+**Descripción:**
+
 Implementación de una Red Neuronal Convolucional (CNN) usando Tensorflow para la clasificación de rostros de personas en (Positivo y Negativo).
 
 **Datos Académicos:**
@@ -6,10 +9,8 @@ Implementación de una Red Neuronal Convolucional (CNN) usando Tensorflow para l
   - Facultad: Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
   - Escuela Prof.: Ingeniería Informática y de Sistemas
   
-**Docentes:**
-  - Liseth Urpy Segundo Carpio - Docente Teoría
-  - Gabriela Zuñiga Rojas - Docente Práctica
+**Docente:**
+  - Ivan Cesar Medrano Valencia - Docente
   
 **Autores:**
   - James Kevin Estrella Vilca - Estudiante - [JamesKevinStar](https://github.com/JamesKevinStar)
-  - Raísa Melina Peña Luque - Estudiante - 
